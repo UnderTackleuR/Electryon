@@ -1089,7 +1089,7 @@ shop14:
   item5:
     item: melon slice
     number: 9
-    prix: 16
+    prix: 17
     name: Melon
   item6:
     item: pumpkin 
